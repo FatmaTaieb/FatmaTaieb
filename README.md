@@ -1,43 +1,50 @@
-<h1 align="center">Hi 👋, I'm Fatma Taieb</h1>
-<h3 align="center">🌍 Future Cybersecurity Engineer | 🔐 SD-WAN Fortinet | ☁️ IaC with Terraform & Ansible | 💡 Passionate about empowering tech & people</h3>
+<h1 align="center">👋 Hello, I'm Fatma Taieb</h1>
+<h3 align="center">Cybersecurity | Network Engineering | DevOps | Automation</h3>
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/fatma-taieb/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@fatmataieb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fatma taieb" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Expert-informational?style=flat&logo=fortinet&color=red" />
+  <img src="https://img.shields.io/badge/Linux-Advanced-important?style=flat&logo=linux&color=black" />
+  <img src="https://img.shields.io/badge/SD--WAN-Fortinet-success?style=flat&logo=fortinet&color=green" />
+  <img src="https://img.shields.io/badge/Troubleshooting-Passion-blueviolet?style=flat&logo=wireshark&color=blue" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools I use to build the future:</h3>
-<p align="left">
-  <!-- Cybersecurity & Networking -->
-  <a href="https://www.fortinet.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fortinet_logo.svg" alt="fortinet" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Wireshark_Icon_2010.png" alt="wireshark" width="40" height="40"/></a>
+---
 
-  <!-- Backend & Web -->
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://symfony.com" target="_blank"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+### 🎯 **My Life Mission**
+> *Become a top-tier cybersecurity engineer in a leading global company.*  
+> I strive to combine technical precision with automation, resilience, and impact.
 
-  <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+---
 
-  <!-- Programming -->
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+### 🛠️ **Tech Stack**
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-</p>
+| Domain | Skills |
+| ------ | ------ |
+| **Cybersecurity** | FortiGate, FortiManager, IPSec VPN, SD-WAN, OSPF, BGP |
+| **IaC & Automation** | Terraform, Ansible, Git, GitHub Actions |
+| **Networking** | CCNA-level Routing & Switching, NAT, DNS, SNMP |
+| **Systems** | Linux (Ubuntu), CLI mastery, Shell scripting |
+| **Backend** | Java Spring, Symfony 6.4 |
+| **Frontend & Mobile** | Angular, Flutter |
+| **Monitoring** | Wireshark, Logs analysis, Fortinet monitoring |
 
-<p align="center">🚀 Always learning. Always building. Always securing the future.</p>
+---
+
+### 🌟 **Soft Skills**
+- 🔍 Analytical mindset
+- 🛠️ Passion for debugging
+- 🧠 Fast learner
+- 🧩 Team player & leader (Scrum Master experience)
+- 💬 Communicator (LinkedIn posts + Visuals with Canva)
+
+---
+
+### 📫 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatma%20Taieb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatma-taieb/)
+[![GitHub](https://img.shields.io/badge/GitHub-fatmataieb-black?style=flat&logo=github)](https://github.com/fatmataieb)
+[![YouTube](https://img.shields.io/badge/YouTube-Coming%20Soon-red?style=flat&logo=youtube)](https://www.youtube.com/@fatmataieb)
+
+---
+
+<p align="center"><em>"Security is not a feature, it's a mindset."</em></p>
