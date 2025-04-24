@@ -10,10 +10,6 @@
 
 ---
 
-### 🎯 **My Life Mission**
-> *Become a top-tier cybersecurity engineer in a leading global company.*  
-> I strive to combine technical precision with automation, resilience, and impact.
-
 ---
 
 ### 🛠️ **Tech Stack**
