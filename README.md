@@ -8,9 +8,7 @@
 I’m a final-year engineering student at ENIG – accredited EUR-ACE – with a major in **Communications and Networks**.  
 Currently working on a **PFE project** titled:
 
-> 🛡️ *"Design and Deployment Automation of a Fortinet SD-WAN Architecture with IaC (Terraform & Ansible)"*
-
-My goal? **Join a major company** as a cybersecurity or network engineer, delivering smart, automated, and secure infrastructures.
+> 🛡️ *"Design and Deployment Automation of a Fortinet SD-WAN Architecture with IaC (TAnsible)"*
 
 ---
 
@@ -22,7 +20,7 @@ My goal? **Join a major company** as a cybersecurity or network engineer, delive
 | **Network Engineering**    | VLANs, STP, DNS/DHCP, Routing & Switching (CCNA 1-2-3), Cisco WSA, Packet Tracer, GNS3, EVE-NG         |
 | **IaC & Automation**       | Terraform, Ansible, Git, GitHub Actions, PowerShell, Active Directory, GPO                            |
 | **Monitoring & SIEM**      | Wazuh, ELK Stack, Sysmon, tcpdump, Wireshark, Zabbix                                                   |
-| **Systems Administration** | Linux (Ubuntu), Windows Server (2012/2016), VirtualBox, VMware, Shell scripting, Domain Controllers   |
+| **Systems Administration** | Linux (Ubuntu), Windows Server (2016/2019), VirtualBox, VMware, Shell scripting, Domain Controllers   |
 | **Programming & Scripting**| Python, Bash, Java, PHP, JavaScript, APIs REST, OpenSSL                                                |
 | **Development**            | Spring Boot, Symfony 6.4, Angular, Flutter, Bootstrap                                                  |
 | **Data & AI**              | TensorFlow, scikit-learn, Pandas, NumPy, KDD Cup 99, XGBoost, Naïve Bayes                              |
