@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Fatma Taieb</h1>
-<h3 align="center">🎓 Future Cybersecurity Engineer | 🔐 SD-WAN Fortinet | ☁️ IaC & DevSecOps | 💡 Passionate About Secure Innovation</h3>
+<h3 align="center">🎓 Future Cybersecurity Engineer</h3>
 
 ---
 
