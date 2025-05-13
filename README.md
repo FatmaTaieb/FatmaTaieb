@@ -8,7 +8,8 @@
 I’m a final-year engineering student at ENIG – accredited EUR-ACE – with a major in **Communications and Networks**.  
 Currently working on a **PFE project** titled:
 
-> 🛡️ *"Design and Deployment Automation of a Fortinet SD-WAN Architecture with IaC (TAnsible)"*
+> 🛡️ *Design and Implementation of an Infrastructure as Code 
+  Platform for Fortinet's SD-WAN Architecture*
 
 ---
 
