@@ -17,13 +17,11 @@ Currently working on a **PFE project** titled:
 
 | Domain                      | Tools & Technologies                                                                                   |
 |----------------------------|--------------------------------------------------------------------------------------------------------|
-| **Cybersecurity**          | FortiGate, FortiManager, IPSec VPN, SD-WAN, OSPF, BGP, ACL, NAT, IDS/IPS, SSL/TLS, Snort, Zeek         |
+| **Cybersecurity**          | FortiGate, FortiManager, IPSec VPN, SD-WAN, OSPF, BGP, ACL, NAT, IDS/IPS, SSL/TLS,      |
 | **Network Engineering**    | VLANs, STP, DNS/DHCP, Routing & Switching (CCNA 1-2-3), Cisco WSA, Packet Tracer, GNS3, EVE-NG         |
-| **IaC & Automation**       | Terraform, Ansible, Git, GitHub Actions, PowerShell, Active Directory, GPO                            |
-| **Monitoring & SIEM**      | Wazuh, ELK Stack, Sysmon, tcpdump, Wireshark, Zabbix                                                   |
+| **IaC & Automation**       |  Ansible, Git, GitHub Actions, PowerShell, Active Directory                           |
+| **Monitoring & SIEM**      |  tcpdump, Wireshark                                               |
 | **Systems Administration** | Linux (Ubuntu), Windows Server (2016/2019), VirtualBox, VMware, Shell scripting, Domain Controllers   |
-| **Programming & Scripting**| Python, Bash, Java, PHP, JavaScript, APIs REST, OpenSSL                                                |
-| **Development**            | Spring Boot, Symfony 6.4, Angular, Flutter, Bootstrap                                                  |
 | **Data & AI**              | TensorFlow, scikit-learn, Pandas, NumPy, KDD Cup 99, XGBoost, Naïve Bayes                              |
 
 ---
@@ -31,10 +29,8 @@ Currently working on a **PFE project** titled:
 ### 🧠 Certifications & Achievements
 
 - 📜 **CCNA 1-2-3** – Cisco Networking Academy  
-- 📜 **Fortinet Certified Fundamentals Cybersecurity**  
-- 📜 **SC-900**, **AI-900** – Microsoft  
+- 📜 **AI-900** – Microsoft  
 - 📜 **Scrum Fundamentals Certified** – SCRUMStudy  
-- 🏆 Led and completed multiple projects in **network security, SIEM, IDS, cryptography, and AI-based detection**
 
 ---
 
@@ -43,7 +39,6 @@ Currently working on a **PFE project** titled:
 - 🎯 **Result-Driven** – Oriented toward high performance and continuous growth  
 - 🔍 **Troubleshooter** – Able to detect, diagnose, and fix complex issues under pressure  
 - 🗣️ **Communicator** – Tech made simple: I write, speak, and share clearly  
-- 🤝 **Team Leadership** – Scrum Master, Project Lead in Enactus & ENIG DEV  
 - 🎨 **Creative Marketer** – Canva visuals, content creation, and communication strategy  
 - 🌱 **Lifelong Learner** – Curious and self-taught in DevSecOps, AI & system internals
 
