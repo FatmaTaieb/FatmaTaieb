@@ -1,17 +1,10 @@
 <h1 align="center">👋 Hello, I'm Fatma Taieb</h1>
-<h3 align="center">🎓 Future Cybersecurity Engineer</h3>
+<h3 align="center">🎓  Cybersecurity Engineer</h3>
 
 ---
 
 ### 🎯 About Me
 
-I’m a final-year engineering student at ENIG – accredited EUR-ACE – with a major in **Communications and Networks**.  
-Currently working on a **PFE project** titled:
-
-> 🛡️ *Design and Implementation of an Infrastructure as Code 
-  Platform for Fortinet's SD-WAN Architecture*
-
----
 
 ### 💼 Technical Skills
 
